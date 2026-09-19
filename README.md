@@ -5,6 +5,7 @@
 [![AIML Club OCT](https://img.shields.io/badge/AIML_Club-OCT_Bhopal-0052CC?style=flat-square)](https://aimlcluboct.in)
 [![Curriculum Track: 12 Modules](https://img.shields.io/badge/Curriculum-12_Modules-brightgreen.svg?style=flat-square)](#curriculum-map)
 [![Resources](https://img.shields.io/badge/Curated_Links-resources.md-orange.svg?style=flat-square)](./resources.md)
+[![Discussions](https://img.shields.io/badge/Discussions-Join_Community-purple.svg?style=flat-square)](https://github.com/AIMLCLUBOCT/learning_resources/discussions)
 
 ---
 
