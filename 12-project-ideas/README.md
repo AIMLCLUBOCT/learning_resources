@@ -66,5 +66,15 @@
 
 ---
 
+## 🛠️ Build Your Own X & Open-Source Repositories
+
+Looking to build technologies from the ground up or explore 500+ curated implementations? Check out these community goldmines:
+
+- 🧱 **[Build Your Own X (codecrafters-io/build-your-own-x)](https://github.com/codecrafters-io/build-your-own-x):** Master engineering by building your own Neural Network, Git, Docker container, Search Engine, Database, or Programming Language from scratch!
+- 📦 **[500+ AI/ML/DL/CV/NLP Projects with Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code):** Extensive open-source collection covering real-world computer vision, sentiment analysis, recommendation engines, and time-series forecasting.
+- 🎓 **[Harvard CS249r: Machine Learning Systems](https://github.com/harvard-edge/cs249r_book):** Comprehensive open textbook on ML scaling, physical AI, and agentic systems.
+
+---
+
 ## 📝 Submission Guidelines
 Ready to build one of these projects? Read the [Project Submission Guidelines](../../Projects/CONTRIBUTING.md) and check the [Standard Project Template](../../.github/templates/PROJECT_TEMPLATE.md).
