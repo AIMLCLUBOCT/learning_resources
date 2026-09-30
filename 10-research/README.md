@@ -41,12 +41,20 @@
 
 ---
 
-## 📜 Must-Read Seminal Papers
+## 📜 Must-Read Seminal & Frontier Papers
 
+### Foundations
 1. **Transformers:** *Attention Is All You Need* (Vaswani et al., 2017) — [arXiv:1706.03762](https://arxiv.org/abs/1706.03762)
 2. **Deep Residual Learning:** *Deep Residual Learning for Image Recognition* (He et al., 2015) — [arXiv:1512.03385](https://arxiv.org/abs/1512.03385)
 3. **Parameter-Efficient Tuning:** *LoRA: Low-Rank Adaptation of Large Language Models* (Hu et al., 2021) — [arXiv:2106.09685](https://arxiv.org/abs/2106.09685)
 4. **Agentic Reasoning:** *ReAct: Synergizing Reasoning and Acting in Language Models* (Yao et al., 2022) — [arXiv:2210.03629](https://arxiv.org/abs/2210.03629)
+
+### 🚀 Frontier Research (2025–2026)
+5. **Inference-Time Reasoning & RLVR:** *DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning* (DeepSeek-AI, 2025) — [arXiv:2501.12948](https://arxiv.org/abs/2501.12948)
+6. **1-Bit Architecture:** *The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits* (Wang et al., 2024) — [arXiv:2402.17764](https://arxiv.org/abs/2402.17764)
+7. **GraphRAG:** *From Local to Global: A Graph RAG Approach to Query-Focused Summarization* (Edge et al., Microsoft Research, 2024) — [arXiv:2404.16130](https://arxiv.org/abs/2404.16130)
+
+👉 **Join the Global Research Discussion:** [Frontier AI Research & Test-Time Compute Forum ↗](https://github.com/AIMLCLUBOCT/learning_resources/discussions/5)
 
 ---
 
