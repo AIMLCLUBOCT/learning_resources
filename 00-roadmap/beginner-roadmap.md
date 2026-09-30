@@ -83,9 +83,9 @@ By the end of this 8-week structured roadmap, you will understand core AI termin
 - **Goal:** Package and document an end-to-end beginner project.
 - **Key Concepts:**
   - Organizing project files (`src/`, `data/`, `notebooks/`).
-  - Documenting your work using the [Project Template](../../.github/templates/PROJECT_TEMPLATE.md).
+  - Documenting your work using the [Project Template](https://github.com/AIMLCLUBOCT/community-templates/tree/main/project-template).
   - Deploying a simple interactive demo using Streamlit.
-- **Hands-on Task:** Submit your capstone project repository to [AIMLCLUBOCT/Projects](../../Projects).
+- **Hands-on Task:** Submit your capstone project repository to [AIMLCLUBOCT/Projects](https://github.com/AIMLCLUBOCT/Projects).
 
 ---
 

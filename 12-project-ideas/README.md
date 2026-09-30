@@ -77,4 +77,4 @@ Looking to build technologies from the ground up or explore 500+ curated impleme
 ---
 
 ## 📝 Submission Guidelines
-Ready to build one of these projects? Read the [Project Submission Guidelines](../../Projects/CONTRIBUTING.md) and check the [Standard Project Template](../../.github/templates/PROJECT_TEMPLATE.md).
+Ready to build one of these projects? Read the [Project Submission Guidelines](https://github.com/AIMLCLUBOCT/Projects/blob/main/CONTRIBUTING.md) and check the [Standard Project Template](https://github.com/AIMLCLUBOCT/community-templates/tree/main/project-template).

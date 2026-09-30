@@ -36,7 +36,7 @@
 
 1. Read Prof. S. Keshav’s guide: *How to Read a Paper* (ACM SIGCOMM).
 2. Choose one seminal paper from the reading list below.
-3. Prepare a 5-slide summary deck using the [Research Presentation Template](../../.github/templates/README_TEMPLATE.md).
+3. Prepare a 5-slide summary deck using the [Research Presentation Template](https://github.com/AIMLCLUBOCT/community-templates/tree/main/research-template).
 4. Attempt an independent replication of a key experiment table on a small public dataset.
 
 ---

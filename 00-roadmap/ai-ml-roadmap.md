@@ -72,4 +72,4 @@ Phase 1: Foundations ──► Phase 2: Classical ML ──► Phase 3: Deep Lea
 - **Containerization:** Writing production `Dockerfile` configurations and multi-stage builds.
 - **CI/CD:** Automated testing and linting pipelines with GitHub Actions.
 - **Monitoring & Lifecycle:** Experiment tracking, model drift detection, reproducible pipelines.
-- **Modules:** [`11-tools`](../11-tools/), [`Projects/advanced`](../../Projects/advanced)
+- **Modules:** [`11-tools`](../11-tools/), [`Projects/advanced`](https://github.com/AIMLCLUBOCT/Projects/tree/main/advanced)
