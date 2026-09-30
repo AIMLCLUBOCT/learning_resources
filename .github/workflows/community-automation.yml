@@ -1,0 +1,39 @@
+name: Community Automation
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Welcome Contributor
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const isPR = !!context.payload.pull_request;
+            const author = context.actor;
+            
+            // Skip automated bot accounts
+            if (author.endsWith('[bot]') || author === 'github-actions') return;
+            
+            let message = '';
+            if (isPR) {
+              message = `### 🎉 Thank you for contributing to our Learning Curriculum, @${author}!\n\nWelcome to **AIML Club OCT**! 🚀\n\nA maintainer will review your improvements to the roadmaps, tutorials, or notes shortly.\n- 💬 Say hello in our [Community Welcome & Introductions Thread](https://github.com/AIMLCLUBOCT/learning_resources/discussions/4).\n\nHappy learning! 📚✨`;
+            } else {
+              message = `### 👋 Hi @${author}, thanks for opening an issue!\n\nWelcome to **AIML Club OCT Learning Resources**!\n\n- If you are suggesting a new tutorial, roadmap topic, or resource link, we appreciate your help!\n- Say hello in our [Welcome & Introductions](https://github.com/AIMLCLUBOCT/learning_resources/discussions/4) thread.\n\nKeep growing! 🚀`;
+            }
+            
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: message
+            });
