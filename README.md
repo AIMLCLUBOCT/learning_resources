@@ -19,7 +19,7 @@ Rather than relying on fragmented tutorials or video link dumps, this curriculum
 
 ## 🧭 How to Use This Repository
 
-```
+```text
                     ┌─────────────────────────┐
                     │   Choose Your Roadmap   │
                     │      (00-roadmap/)      │
@@ -47,17 +47,23 @@ Rather than relying on fragmented tutorials or video link dumps, this curriculum
 
 1. **Step 1: Pick a Track**  
    Read [`00-roadmap/`](./00-roadmap/) and choose the roadmap that matches your current semester and target:
-   - [**Beginner Roadmap**](./00-roadmap/beginner-roadmap.md) (1st / 2nd year students starting from scratch)
-   - [**Comprehensive AI/ML Roadmap**](./00-roadmap/ai-ml-roadmap.md) (Standard end-to-end curriculum)
-   - [**Applied Research Roadmap**](./00-roadmap/research-roadmap.md) (Paper reading, replication, benchmarks)
+
+   * [**Beginner Roadmap**](./00-roadmap/beginner-roadmap.md) (1st / 2nd year students starting from scratch)
+   * [**Comprehensive AI/ML Roadmap**](./00-roadmap/ai-ml-roadmap.md) (Standard end-to-end curriculum)
+   * [**Applied Research Roadmap**](./00-roadmap/research-roadmap.md) (Paper reading, replication, benchmarks)
+
 2. **Step 2: Follow the Sequenced Modules**  
    Progress through modules `01` to `12`. Each module defines required prerequisites, core concepts, official documentation, practical exercises, and self-assessment mini-projects.
+
 3. **Step 3: Consult Curated Resources**  
    Check [`resources.md`](./resources.md) for official documentation sites, interactive courses, standard datasets, and research portals.
+
 4. **Step 4: Build & Share**  
    Apply what you learn by contributing to [`AIMLCLUBOCT/Projects`](https://github.com/AIMLCLUBOCT/Projects) or testing code in [`AIMLCLUBOCT/Workshops`](https://github.com/AIMLCLUBOCT/Workshops).
 
 ---
+
+<a id="curriculum-map"></a>
 
 ## 🗺️ Curriculum Map
 
@@ -93,8 +99,8 @@ Found a typo, an outdated dependency, or want to add a new tutorial guide? Pleas
 
 ## 🌐 Connect with the Community
 
-- **Official Website:** [aimlcluboct.in](https://aimlcluboct.in)
-- **Digital Hub & Socials:** [social.aimlcluboct.in](https://social.aimlcluboct.in)
-- **Student Discussion Group:** [WhatsApp Community](https://chat.whatsapp.com/ITBTDOgerQVLnw9dq7jxN6)
-- 💬 **Say Hi on GitHub:** [Introduce Yourself Here!](https://github.com/AIMLCLUBOCT/learning_resources/discussions/4)
-- **Voice / Suggestions:** [voice.aimlcluboct.in](https://voice.aimlcluboct.in)
+* **Official Website:** [aimlcluboct.in](https://aimlcluboct.in)
+* **Digital Hub & Socials:** [social.aimlcluboct.in](https://social.aimlcluboct.in)
+* **Student Discussion Group:** [WhatsApp Community](https://chat.whatsapp.com/ITBTDOgerQVLnw9dq7jxN6)
+* 💬 **Say Hi on GitHub:** [Introduce Yourself Here!](https://github.com/AIMLCLUBOCT/learning_resources/discussions/4)
+* **Voice / Suggestions:** [voice.aimlcluboct.in](https://voice.aimlcluboct.in)
