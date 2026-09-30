@@ -69,6 +69,7 @@
 | **Google Machine Learning Crash Course** | Interactive Course | Fast-paced, practical intro to core ML concepts with TensorFlow/Keras exercises. | Beginner | [developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course) |
 | **Machine Learning Specialization (DeepLearning.AI)** | Online Specialization | Industry-standard curriculum on supervised learning, algorithms, and practical debugging. | Beginner - Intermediate | [deeplearning.ai/courses/machine-learning-specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/) |
 | **StatQuest with Josh Starmer** | Concept Video Guide | Crystal-clear, step-by-step visual breakdowns of algorithms like Decision Trees, SVMs, and PCA. | Beginner | [statquest.org](https://statquest.org/) |
+| **CampusX Machine Learning Course** | Hindi Video Lectures | In-depth mathematical intuition and implementation of ML algorithms in Hindi/English. | Beginner - Intermediate | [youtube.com/@campusx-official](https://www.youtube.com/@campusx-official) |
 
 ---
 
@@ -76,6 +77,7 @@
 
 | Resource | Category | What It Is Useful For | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| **Neural Networks: Zero to Hero (Andrej Karpathy)** | Video Masterclass | Build backprop (micrograd), language models (makemore), and GPT from scratch in PyTorch. | Intermediate - Advanced | [karpathy.ai/zero-to-hero.html](https://karpathy.ai/zero-to-hero.html) |
 | **Deep Learning Specialization Notes** | Study Notes | Complete, well-structured revision notes for Andrew Ng’s Deep Learning Specialization courses. | Intermediate | [github.com/lijqhs/deeplearning-notes](https://github.com/lijqhs/deeplearning-notes) |
 | **PyTorch Official Tutorials** | Deep Learning Docs | Hands-on guides for tensors, autograd, neural network modules, and distributed training. | Intermediate | [pytorch.org/tutorials](https://pytorch.org/tutorials/) |
 | **Deep Learning Specialization (DeepLearning.AI)** | Comprehensive Course | Master neural networks, hyperparameter tuning, CNNs, and sequence models. | Intermediate | [deeplearning.ai/courses/deep-learning-specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/) |
