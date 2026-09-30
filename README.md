@@ -96,4 +96,5 @@ Found a typo, an outdated dependency, or want to add a new tutorial guide? Pleas
 - **Official Website:** [aimlcluboct.in](https://aimlcluboct.in)
 - **Digital Hub & Socials:** [social.aimlcluboct.in](https://social.aimlcluboct.in)
 - **Student Discussion Group:** [WhatsApp Community](https://chat.whatsapp.com/ITBTDOgerQVLnw9dq7jxN6)
+- 💬 **Say Hi on GitHub:** [Introduce Yourself Here!](https://github.com/AIMLCLUBOCT/learning_resources/discussions/4)
 - **Voice / Suggestions:** [voice.aimlcluboct.in](https://voice.aimlcluboct.in)
