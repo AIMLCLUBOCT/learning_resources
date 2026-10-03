@@ -1,11 +1,20 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0052CC,8A2BE2,00F5FF&height=230&section=header&text=AI%20%26%20ML%20Learning%20Hub&fontSize=44&fontColor=ffffff&animation=fadeIn" alt="Learning Hub Header" width="100%"/>
+
 # 📚 AI & Machine Learning Learning Hub
 
-> Curated curricula, structured roadmaps, official documentation references, and hands-on exercises maintained by the **AI & Machine Learning Club – Oriental College of Technology, Bhopal**.
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=12+Structured+Undergraduate+AI%2FML+Modules;Curated+Roadmaps+%E2%80%A2+Verified+Official+References;Python+%E2%80%A2+Math+%E2%80%A2+EDA+%E2%80%A2+ML+%E2%80%A2+Deep+Learning+%E2%80%A2+GenAI+%E2%80%A2+Agents" alt="Typing Tagline"/>
 
-[![AIML Club OCT](https://img.shields.io/badge/AIML_Club-OCT_Bhopal-0052CC?style=flat-square)](https://aimlcluboct.in)
-[![Curriculum Track: 12 Modules](https://img.shields.io/badge/Curriculum-12_Modules-brightgreen.svg?style=flat-square)](#curriculum-map)
-[![Resources](https://img.shields.io/badge/Curated_Links-resources.md-orange.svg?style=flat-square)](./resources.md)
-[![Discussions](https://img.shields.io/badge/Discussions-Join_Community-purple.svg?style=flat-square)](https://github.com/AIMLCLUBOCT/learning_resources/discussions)
+<br/><br/>
+
+[![Live Web Portal](https://img.shields.io/badge/Web_Portal-aimlcluboct.github.io-00F5FF?style=for-the-badge&logo=githubpages&logoColor=black)](https://aimlcluboct.github.io/#curriculum)
+[![AIML Club OCT](https://img.shields.io/badge/AIML_Club-OCT_Bhopal-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aimlcluboct.in)
+[![Curriculum Track: 12 Modules](https://img.shields.io/badge/Curriculum-12_Modules-brightgreen.svg?style=for-the-badge)](#curriculum-map)
+[![Resources](https://img.shields.io/badge/Curated_Links-resources.md-orange.svg?style=for-the-badge)](./resources.md)
+[![Discussions](https://img.shields.io/badge/Discussions-Join_Community-purple.svg?style=for-the-badge&logo=github)](https://github.com/AIMLCLUBOCT/learning_resources/discussions)
+
+</div>
 
 ---
 
@@ -107,3 +116,9 @@ Found a typo, an outdated dependency, or want to add a new tutorial guide? Pleas
  * 💼 **[Career & Portfolio Guide](https://github.com/AIMLCLUBOCT/learning_resources/discussions/10):** How to land AI/ML internships and stand out in tech.
  * 🔬 **[Frontier AI Research Forum](https://github.com/AIMLCLUBOCT/learning_resources/discussions/5):** Reasoning models, RLVR, and test-time compute.
  * **Voice / Suggestions:** [voice.aimlcluboct.in](https://voice.aimlcluboct.in)
+
+<br/>
+<div align="center">
+<sub>© 2026 AI & Machine Learning Club – Oriental College of Technology, Bhopal.</sub><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0052CC,8A2BE2,00F5FF&height=100&section=footer" width="100%"/>
+</div>
