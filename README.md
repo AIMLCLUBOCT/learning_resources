@@ -9,7 +9,8 @@
 <br/><br/>
 
 [![Live Web Portal](https://img.shields.io/badge/Web_Portal-aimlcluboct.github.io-00F5FF?style=for-the-badge&logo=githubpages&logoColor=black)](https://aimlcluboct.github.io/#curriculum)
-[![AIML Club OCT](https://img.shields.io/badge/AIML_Club-OCT_Bhopal-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aimlcluboct.in)
+[![Live Activities](https://img.shields.io/badge/Live_Activities-Student_Radar-FF6B6B?style=for-the-badge&logo=rss)](https://aimlcluboct.github.io/#activities)
+[![AI & Machine Learning Club](https://img.shields.io/badge/AI_%26_ML_Club-OCT_Bhopal-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aimlcluboct.in)
 [![Curriculum Track: 12 Modules](https://img.shields.io/badge/Curriculum-12_Modules-brightgreen.svg?style=for-the-badge)](#curriculum-map)
 [![Resources](https://img.shields.io/badge/Curated_Links-resources.md-orange.svg?style=for-the-badge)](./resources.md)
 [![Discussions](https://img.shields.io/badge/Discussions-Join_Community-purple.svg?style=for-the-badge&logo=github)](https://github.com/AIMLCLUBOCT/learning_resources/discussions)
@@ -18,9 +19,12 @@
 
 ---
 
+> [!IMPORTANT]
+> **📢 Live Student Notice & Activity Board:** All upcoming hackathons, new Colab workshop labs, and open-source project issues are published in real-time on our **[Live Activities Radar on aimlcluboct.github.io/#activities ↗](https://aimlcluboct.github.io/#activities)**. Have a topic to pitch? Use the **[Propose Activity Portal](https://aimlcluboct.github.io/#activities)**!
+
 ## Overview
 
-Welcome to the central learning hub of **AIML Club OCT**. This repository is designed to give every student — from 1st-year undergraduates with zero programming background to senior students conducting applied AI experiments — a structured, rigorous, and completely free learning roadmap.
+Welcome to the central learning hub of the **AI & Machine Learning Club (AIML Club OCT)**, **Oriental College of Technology, Bhopal**. This repository is designed to give every student — from 1st-year undergraduates with zero programming background to senior students conducting applied AI experiments — a structured, rigorous, and completely free learning roadmap.
 
 Rather than relying on fragmented tutorials or video link dumps, this curriculum focuses on **foundational intuition**, **mathematical rigor**, **official documentation**, and **immediate code implementation**.
 
