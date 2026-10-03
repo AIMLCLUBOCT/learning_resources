@@ -76,12 +76,12 @@ Rather than relying on fragmented tutorials or video link dumps, this curriculum
 | **04** | [**Machine Learning**](./04-machine-learning/) | Supervised & unsupervised learning, scikit-learn, validation metrics | Intermediate |
 | **05** | [**Deep Learning**](./05-deep-learning/) | Neural networks, backpropagation, CNNs, RNNs, Transformers, PyTorch | Intermediate / Advanced |
 | **06** | [**Generative AI & LLMs**](./06-generative-ai/) | Attention mechanisms, prompt engineering, RAG, Hugging Face, vector DBs | Advanced |
-| **07** | [**AI Agents**](./07-ai-agents/) | Autonomous agent architectures, tool use, LangChain, LlamaIndex | Advanced |
-| **08** | [**Computer Vision**](./08-computer-vision/) | OpenCV, image filtering, YOLO, object detection, segmentation | Intermediate / Advanced |
-| **09** | [**Natural Language Processing**](./09-nlp/) | Tokenization, word embeddings, BERT, sequence-to-sequence models | Intermediate / Advanced |
-| **10** | [**AI Research & Papers**](./10-research/) | Paper reading techniques, arXiv navigation, reproducibility, benchmarks | Advanced / Research |
-| **11** | [**Tools & MLOps**](./11-tools/) | Git/GitHub, Docker, Google Colab, Kaggle, FastAPI, Streamlit | All |
-| **12** | [**Project Ideas**](./12-project-ideas/) | Structured project specifications graded by difficulty level | All |
+| **07** | [**AI Agents**](./07-ai-agents/) | Autonomous agent loops, Model Context Protocol (MCP), FastMCP, tool use, LangGraph | Advanced |
+| **08** | [**Computer Vision**](./08-computer-vision/) | OpenCV, Google MediaPipe (hand/pose tracking), YOLO, object detection, segmentation | Intermediate / Advanced |
+| **09** | [**Natural Language Processing**](./09-nlp/) | Tokenization, TF-IDF, word embeddings, BERT, sequence-to-sequence models | Intermediate / Advanced |
+| **10** | [**AI Research & Papers**](./10-research/) | Paper reading techniques, arXiv navigation, AI research agents, AutoResearch, benchmarks | Advanced / Research |
+| **11** | [**Tools & MLOps**](./11-tools/) | Git/GitHub, Docker, Google Colab, Kaggle, FastAPI, Streamlit, Firecrawl, MCP toolboxes | All |
+| **12** | [**Project Ideas**](./12-project-ideas/) | Structured project specifications (from tabular models to autonomous agents & ATS evaluators) | All |
 
 ---
 
@@ -97,10 +97,13 @@ Found a typo, an outdated dependency, or want to add a new tutorial guide? Pleas
 
 ---
 
-## 🌐 Connect with the Community
-
-* **Official Website:** [aimlcluboct.in](https://aimlcluboct.in)
-* **Digital Hub & Socials:** [social.aimlcluboct.in](https://social.aimlcluboct.in)
-* **Student Discussion Group:** [WhatsApp Community](https://chat.whatsapp.com/ITBTDOgerQVLnw9dq7jxN6)
-* 💬 **Say Hi on GitHub:** [Introduce Yourself Here!](https://github.com/AIMLCLUBOCT/learning_resources/discussions/4)
-* **Voice / Suggestions:** [voice.aimlcluboct.in](https://voice.aimlcluboct.in)
+## 🌐 Connect with the Community & Forums
+ 
+ * **Official Website:** [aimlcluboct.in](https://aimlcluboct.in)
+ * **Digital Hub & Socials:** [social.aimlcluboct.in](https://social.aimlcluboct.in)
+ * **Student Discussion Group:** [WhatsApp Community](https://chat.whatsapp.com/ITBTDOgerQVLnw9dq7jxN6)
+ * 💬 **[Welcome & Introductions Thread](https://github.com/AIMLCLUBOCT/learning_resources/discussions/4):** Say hi to fellow club members!
+ * 🚀 **[Student Project Showcase](https://github.com/AIMLCLUBOCT/learning_resources/discussions/9):** Share what you are building and get peer feedback.
+ * 💼 **[Career & Portfolio Guide](https://github.com/AIMLCLUBOCT/learning_resources/discussions/10):** How to land AI/ML internships and stand out in tech.
+ * 🔬 **[Frontier AI Research Forum](https://github.com/AIMLCLUBOCT/learning_resources/discussions/5):** Reasoning models, RLVR, and test-time compute.
+ * **Voice / Suggestions:** [voice.aimlcluboct.in](https://voice.aimlcluboct.in)
