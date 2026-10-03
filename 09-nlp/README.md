@@ -58,6 +58,10 @@ for text, res in zip(sentences, results):
     print(f"Text: {text}\nPrediction: {res['label']} (Confidence: {res['score']:.4f})\n")
 ```
 
+### 🛠️ Hands-on Club Workshop Lab & Starter Project
+- 📓 **Interactive Workshop:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLCLUBOCT/Workshops/blob/main/beginner/notebooks/04_nlp_sentiment_analysis.ipynb) [**`Workshops/04_nlp_sentiment_analysis.ipynb`**](https://github.com/AIMLCLUBOCT/Workshops/blob/main/beginner/notebooks/04_nlp_sentiment_analysis.ipynb)
+- 🚀 **Club Starter Project:** [**Phishing & Spam Message Classifier**](https://github.com/AIMLCLUBOCT/Projects/tree/main/beginner/phishing-spam-detector) (Zero-dependency pure Python mode + Scikit-Learn Naive Bayes pipeline)
+
 ---
 
 ## 💡 Project Ideas

@@ -98,6 +98,10 @@ print("Classification Report:\n")
 print(classification_report(y_test, y_pred))
 ```
 
+### 🛠️ Hands-on Club Workshop Lab & Starter Project
+- 📓 **Interactive Workshop:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLCLUBOCT/Workshops/blob/main/beginner/notebooks/03_intro_machine_learning.ipynb) [**`Workshops/03_intro_machine_learning.ipynb`**](https://github.com/AIMLCLUBOCT/Workshops/blob/main/beginner/notebooks/03_intro_machine_learning.ipynb)
+- 🚀 **Club Starter Project:** [**Student Academic Performance & Risk Predictor**](https://github.com/AIMLCLUBOCT/Projects/tree/main/beginner/student-performance-predictor) (Zero-dependency pure Python mode + Scikit-Learn Random Forest pipeline)
+
 ---
 
 ## 💡 Project Ideas
