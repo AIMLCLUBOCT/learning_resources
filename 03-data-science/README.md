@@ -54,17 +54,35 @@ import matplotlib.pyplot as plt
 # 1. Load sample dataset
 df = sns.load_dataset('titanic')
 
-# 2. Inspect missingness
-print("Missing values per column:\n", df.isna().sum())
+# 2. Inspect dataset
+print("First 10 rows:")
+print(df.head(10))
 
-# 3. Clean: Impute missing age with median
+print("\nDataset information:")
+df.info()
+
+print("\nSummary statistics:")
+print(df.describe())
+
+
+# 3. Inspect missingness
+print("Missing values per column:\n", df.isna().sum())
+print("Duplicated values per column:\n",df.duplicated().sum())
+
+print("\nSurvival distribution:")
+print(df["survived"].value_counts())
+
+print("\nSurvival distribution (%):")
+print(df["survived"].value_counts(normalize=True) * 100)
+
+# 4. Clean: Impute missing age with median
 df['age'] = df['age'].fillna(df['age'].median())
 
-# 4. Group by survival and passenger class
+# 5. Group by survival and passenger class
 survival_rates = df.groupby('pclass')['survived'].mean()
 print("\nSurvival rate by class:\n", survival_rates)
 
-# 5. Visual summary: Boxplot of fare by class
+# 6. Visual summary: Boxplot of fare by class
 plt.figure(figsize=(8, 4))
 sns.boxplot(data=df, x='pclass', y='fare', showfliers=False)
 plt.title("Fare Distribution by Passenger Class")
