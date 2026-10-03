@@ -101,6 +101,10 @@
 
 | Resource | Category | What It Is Useful For | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| **Model Context Protocol (MCP)** | Open Standard | The open universal standard connecting AI agents to external databases, tools, APIs, and local systems. | Intermediate | [modelcontextprotocol.io](https://modelcontextprotocol.io/) |
+| **FastMCP (PrefectHQ)** | Agent Tool Framework | The fast, Pythonic way to build and deploy high-performance MCP servers and tool registries. | Beginner - Intermediate | [github.com/PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) |
+| **AutoResearch (Andrej Karpathy)** | Autonomous Agents | Autonomous AI agents running research and experiment iteration loops on single-GPU nanochat training automatically. | Advanced | [github.com/karpathy/autoresearch](https://github.com/karpathy/autoresearch) |
+| **Headroom** | Context Engineering | Compress tool outputs, terminal logs, and RAG chunks before they reach the LLM to save 20-60% tokens. | Intermediate | [github.com/headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) |
 | **Hugging Face AI Agents Course** | Open Course | Free course covering agent fundamentals, tool usage, ReAct logic, and code agents. | Intermediate - Advanced | [huggingface.co/learn/agents-course](https://huggingface.co/learn/agents-course) |
 | **LangChain Documentation** | Framework Docs | Production patterns for chains, memory, tool integration, and agent executors. | Intermediate | [python.langchain.com/docs](https://python.langchain.com/docs/) |
 | **LlamaIndex Documentation** | Data Framework Docs | Connecting custom data sources to LLMs for advanced RAG and agent retrieval. | Intermediate | [docs.llamaindex.ai](https://docs.llamaindex.ai/) |
@@ -111,6 +115,9 @@
 
 | Resource | Category | What It Is Useful For | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| **Google MediaPipe Solutions** | Real-Time Perception | Cross-platform on-device perceptual solutions: 21 3D hand landmarks, 33 body pose landmarks, and Face Mesh. | Beginner - Intermediate | [developers.google.com/mediapipe](https://developers.google.com/mediapipe) |
+| **Hand Gesture Occlusion Benchmark** | Robustness Benchmarking | Modular computer vision framework evaluating landmark stability under 0%–60% partial occlusions with translation/scale invariance. | Intermediate | [github.com/Anushka-M09/hand-gesture-occlusion-benchmark](https://github.com/Anushka-M09/hand-gesture-occlusion-benchmark) |
+| **EyeTracker (JEOresearch)** | Gaze & Attention | Lightweight, robust Python eye and pupil tracker using OpenCV and facial geometry for driver monitoring and HCI. | Intermediate | [github.com/JEOresearch/EyeTracker](https://github.com/JEOresearch/EyeTracker) |
 | **OpenCV Python Tutorials** | Image Processing | Official OpenCV tutorials for edge detection, contours, filtering, and camera feeds. | Beginner - Intermediate | [docs.opencv.org/4.x/d6/d00/tutorial_py_root.html](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) |
 | **Ultralytics YOLO Docs** | Object Detection | Official docs for real-time object detection, segmentation, and classification models. | Intermediate | [docs.ultralytics.com](https://docs.ultralytics.com/) |
 | **Torchvision Documentation** | Vision Framework Docs | Datasets, model architectures (ResNet, ViT), and image transforms in PyTorch. | Intermediate | [pytorch.org/vision/stable](https://pytorch.org/vision/stable/) |
