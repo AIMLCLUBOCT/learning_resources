@@ -41,25 +41,40 @@
 - **Tech Stack:** Hugging Face `transformers`, DistilBERT, PyTorch, FastAPI.
 - **Key Deliverables:** REST endpoint returning predicted category and confidence probability score.
 
+### 5. Hand Gesture Controller & Occlusion Robustness Benchmark
+- **Problem:** Contactless gesture control systems often fail in realistic environments when the hand is partially occluded by objects or clothing.
+- **Tech Stack:** Python, OpenCV, Google MediaPipe, NumPy, Scikit-Learn.
+- **Key Deliverables:** Translation/scale-invariant 21-point hand landmark extraction, synthetic 0%–60% occlusion benchmark, real-time gesture dispatcher.
+
 ---
 
 ## 🔴 Advanced Level Projects
 
-### 5. Campus Document RAG Knowledge Assistant
+### 6. Campus Document RAG Knowledge Assistant
 - **Problem:** College students and faculty struggle to quickly find policy information buried across 100+ page college ordinance PDFs and circulars.
 - **Tech Stack:** LangChain / LlamaIndex, ChromaDB / FAISS, open-weights LLMs (Ollama / Llama-3), Streamlit.
 - **Key Deliverables:** Semantic chunking strategy, citation retrieval showing exact source page, hallucination guardrails.
 
-### 6. Autonomous Code Quality & Security Audit Agent
+### 7. AI-Powered ATS Resume Evaluator & Student Employability Platform
+- **Problem:** Engineering students lack feedback on whether their technical resumes pass industry Applicant Tracking Systems (ATS) and job keyword matching algorithms.
+- **Tech Stack:** Python, FastAPI, Sentence-Transformers / Scikit-Learn, PDFPlumber, Streamlit.
+- **Key Deliverables:** Parsing resume sections, cosine similarity matching against target job descriptions, missing keyword recommendations, and privacy-first local scoring.
+
+### 8. Autonomous Code Quality & Security Audit Agent
 - **Problem:** Automatically review pull requests for security vulnerabilities, hardcoded credentials, and adherence to PEP 8 standards.
-- **Tech Stack:** LangGraph, GitHub REST API, Python AST, Docker sandboxing.
+- **Tech Stack:** FastMCP / LangGraph, GitHub REST API, Python AST, Docker sandboxing.
 - **Key Deliverables:** Multi-step agent workflow that comments automated review suggestions directly on GitHub PRs.
 
 ---
 
 ## 🟣 Research & Experimental Projects
 
-### 7. Parameter-Efficient Domain Adaptation of Small Language Models
+### 9. Autonomous Deep Research Agent (AutoResearch Loop)
+- **Problem:** Automating the literature review, hypothesis formulation, code execution, and metric reporting loop on a single local GPU.
+- **Tech Stack:** Python, PyTorch, FastMCP, ArXiv API / Firecrawl, LiteLLM.
+- **Key Deliverables:** Autonomous research loop inspired by Karpathy's `autoresearch`—planning, experimenting, logging metrics, and outputting structured markdown analysis.
+
+### 10. Parameter-Efficient Domain Adaptation of Small Language Models
 - **Problem:** Adapt a 1B–3B parameter open-weights model to technical Indian engineering vernacular using minimal compute.
 - **Tech Stack:** PyTorch, Hugging Face `peft`, LoRA, QLoRA, Weights & Biases.
 - **Key Deliverables:** Ablation study comparing LoRA ranks ($r \in \{4, 8, 16\}$), perplexity benchmarking, reproducibility documentation.

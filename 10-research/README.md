@@ -29,6 +29,9 @@
    - Accurate representation of findings: Never cherry-pick favorable runs while omitting failures.
    - Avoiding false claims: Distinguish clearly between experimental student prototypes and peer-reviewed state-of-the-art benchmarks.
    - Plagiarism prevention and rigorous citation of prior art.
+5. **AI-Assisted Scientific Research & Autonomous Labs:**
+   - **Literature Review & Peer Review Agents:** Using agentic workflows (e.g. ArXiv tool calling) to analyze prior work, generate citation graphs, and audit methodology.
+   - **Autonomous Experiment Loops:** Inspired by frameworks like Karpathy's `autoresearch`—letting agents autonomously propose hyperparameter tweaks, execute training jobs, and summarize validation curves.
 
 ---
 

@@ -28,6 +28,10 @@
    - Why containerization solves "works on my machine" issues.
    - Writing clean `Dockerfile` recipes: Base image, copying files, installing dependencies, exposing ports, and `CMD`.
    - Building and running containers locally.
+5. **Modern Agent Tooling & Observability:**
+   - **Agent Web Scraping (Firecrawl):** Converting complex web pages directly into clean Markdown for LLM ingestion and RAG.
+   - **Token Tracking & Cost Optimization (Codeburn / OpenProxy):** Monitoring token burn rates, model latencies, and routing across providers.
+   - **Database MCP Toolboxes (Google MCP-Toolbox):** Safely exposing databases (PostgreSQL, Redis, MySQL, BigQuery) to agents via standardized Model Context Protocol boundaries.
 
 ---
 
